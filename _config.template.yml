@@ -38,7 +38,7 @@ analytics:
   cnzz_site_id:
 
 pages:
-- name: 时间轴
+- name: 时间轴111
   link: /timeline
 - name: 标签云
   link: /tagcloud
